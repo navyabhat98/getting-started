@@ -7,3 +7,8 @@
 </p>
 
 This repository contains setup instructions for all the resources required for the workshop. Please go through them carefully and install in your system. For any queries open an issue or contact a mentor.
+
+1. Go to (https://www.python.org/downloads/) to download the surrent version of python, that is python 3.7.2
+   ![alt text](http://url/to/python-downloads.png)
+
+2. Click on download python 3.7.2
